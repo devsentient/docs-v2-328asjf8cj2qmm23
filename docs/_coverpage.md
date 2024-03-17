@@ -10,6 +10,6 @@
 - AWS -->
 
 [GitHub](https://github.com/devsentient/shakudo-examples)
-[Get Started](/introduction/welcome)
+[Getting Started](/introduction/welcome)
 
 ![color](#FFFFFF)

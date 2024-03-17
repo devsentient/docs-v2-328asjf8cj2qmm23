@@ -1,4 +1,4 @@
 ![banner](images/shakudo-banner.jpg)
-# Getting Started
+# Placeholder
 
 Coming soon!
