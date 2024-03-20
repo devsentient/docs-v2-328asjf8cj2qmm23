@@ -20,3 +20,6 @@ Note: You can embed HTML elements/tags within markdown files to support more cus
 
 # Testing Locally
 Follow the steps on the [docsify docs](https://docsify.js.org/#/quickstart) to serve and test the page locally.
+
+# Spellcheck
+You can use [codespell](https://github.com/codespell-project/codespell) to check for simple spelling. 
